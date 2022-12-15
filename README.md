@@ -1,9 +1,3 @@
-# My Store App
-
-> *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
-
-<br/>
-
 ## Get Started
 
 ### 1. Prerequisites
